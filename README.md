@@ -87,7 +87,7 @@ void loop()
 ### Distance vs measurement table 
 
 
-![output](roboex04pic.png)
+![output](roboex4pic.png)
 
 
 
