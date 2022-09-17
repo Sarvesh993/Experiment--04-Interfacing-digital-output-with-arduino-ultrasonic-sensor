@@ -87,13 +87,13 @@ void loop()
 ### Distance vs measurement table 
 
 
-![output](roboex04.png)
+![output](roboex04pic.png)
 
 
 
 
 
 ### RESULTS
-
+Thus the distance value is measured in"CM" using ultrasonic sensor
 
  
